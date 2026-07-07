@@ -97,7 +97,7 @@ local function NotificacaoNightMystic(titulo, mensagem)
     end
 end
 
-NotificacaoNightMystic("Abacaxi Hub", "Script carregado com sucesso!")
+NotificacaoNightMystic("nyann os fram", "Script carregado com sucesso!")
 
 -- ========================================
 -- SAVE SYSTEM (Optimized)
